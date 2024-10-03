@@ -7,3 +7,4 @@
 1.2.1_5_GTOS_System.zip
 1.2.1_6_GTShellFix.zip
 1.2.1_7_GT32_WindowFix.zip
+1.2.1_8_SGTUpd_Update.zip
